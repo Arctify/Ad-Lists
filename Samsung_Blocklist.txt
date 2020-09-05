@@ -1,5 +1,6 @@
 # Samsung Blocklist
-# Optimised for Active 2 Watch & accompanying apps
+# Optimising for Active 2 Watch & accompanying apps
+#  Currently blocking all dns request featuring "samsung" needs reducing
 
 account.samsung.com
 api-us1.mpay.samsung.com
