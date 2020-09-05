@@ -1,8 +1,9 @@
 # Samsung Blocklist
 # Optimising for Active 2 Watch & accompanying apps
-#  Currently blocking all dns request featuring "samsung" needs reducing
+# Commented Domains appear necessary
+# Ref_Doc "https://support.samsungknox.com/hc/en-us/articles/115012547907-What-URLs-do-I-have-to-whitelist-to-make-Samsung-apps-work-with-an-authenticated-proxy-"
 
-account.samsung.com
+# account.samsung.com
 api-us1.mpay.samsung.com
 api.samsungknowledge.com
 cdn.samsung.com
@@ -15,12 +16,12 @@ dls-udc.dqa.samsung.com
 dls.di.atlas.samsung.com
 esapi.samsung.com
 fota-apis.samsungdm.com
-gearapps.samsung.com
+# gearapps.samsung.com
 gld.push.samsungosp.com
 hub-odc.samsungapps.com
 images.samsung.com
 img.global.news.samsung.com
-img.samsungapps.com
+# img.samsungapps.com (Required, See Ref_Doc)
 insight.samsunghealth.com
 insights-img.samsunghealth.com
 mop.samsungosp.com
@@ -30,6 +31,6 @@ searchapi.samsung.com
 shealth-analytics-api.samsunghealth.com
 shealth-api.samsunghealth.com
 uk-odc.samsungapps.com
-us.account.samsung.com
-vas.samsungapps.com
+# us.account.samsung.com 
+# vas.samsungapps.com (Required for App Updates, See Ref_Doc)
 www.samsung.com
