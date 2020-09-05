@@ -1,0 +1,34 @@
+# Samsung Blocklist
+# Optimised for Active 2 Watch & accompanying apps
+
+account.samsung.com
+api-us1.mpay.samsung.com
+api.samsungknowledge.com
+cdn.samsung.com
+collector.samsungknowledge.com
+content.samsungknowledge.com
+dc.di.atlas.samsung.com
+dc.dqa.samsung.com
+dir-apis.samsungdm.com
+dls-udc.dqa.samsung.com
+dls.di.atlas.samsung.com
+esapi.samsung.com
+fota-apis.samsungdm.com
+gearapps.samsung.com
+gld.push.samsungosp.com
+hub-odc.samsungapps.com
+images.samsung.com
+img.global.news.samsung.com
+img.samsungapps.com
+insight.samsunghealth.com
+insights-img.samsunghealth.com
+mop.samsungosp.com
+news.samsung.com
+sdk.pushmessage.samsung.com
+searchapi.samsung.com
+shealth-analytics-api.samsunghealth.com
+shealth-api.samsunghealth.com
+uk-odc.samsungapps.com
+us.account.samsung.com
+vas.samsungapps.com
+www.samsung.com
